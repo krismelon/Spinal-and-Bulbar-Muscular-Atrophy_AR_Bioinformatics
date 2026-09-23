@@ -13,9 +13,17 @@ This activity investigates the AR gene using the UCSC Genome Browser and NCBI Cl
 ## Part B - AR Gene Location
 
 **Official gene symbol:** AR
+
 **Full gene name:** Androgen receptor
+
 **Chromosome:** X
+
 **Genome Assembly used:** GRCh38/hg38
+
 **Genomic coordinates shown in UCSC:** chrX:67,544,021-67,730,619
+
 **DNA strand:** Positive (+) strand
+
 **Approximate gene size:** 186,599 bp
+
+
