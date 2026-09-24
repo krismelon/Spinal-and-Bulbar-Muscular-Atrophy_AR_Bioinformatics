@@ -93,7 +93,7 @@ b. Is it in an exon, intron, UTR, splice region, or another region?
   
 c. Is it likely in a coding or non-coding region based on the displayed annotations?
 - It is a missense variant, meaning one nucleotide change results in a change in one amino acid.
-  
+
 d. Based on its location and ClinVar information, briefly explain how the variant might affect thegene or gene product. 
 - The variant is located in the coding region of the AR gene and causes a missense change, p.Ala766Thr. This amino-acid change may affect the structure or function of the androgen receptor protein.
   
