@@ -83,3 +83,19 @@ g. Review status, if shown
 h. ClinVar record URL
 - https://www.ncbi.nlm.nih.gov/clinvar/variation/458363/
 
+## Part F - PART F. Find Your Selected Variant Back in UCSC
+
+a. Where is the variant located relative to your gene?
+- The variant NM_000044.6:c.2296G>A (p.Ala766Thr) is located within the AR gene's coding region (exon).
+  
+b. Is it in an exon, intron, UTR, splice region, or another region?
+- It is a coding variant because it changes an amino acid: alanine (Ala) to threonine (Thr) at position 766.
+  
+c. Is it likely in a coding or non-coding region based on the displayed annotations?
+- It is a missense variant, meaning one nucleotide change results in a change in one amino acid.
+  
+d. Based on its location and ClinVar information, briefly explain how the variant might affect thegene or gene product. 
+- The variant is located in the coding region of the AR gene and causes a missense change, p.Ala766Thr. This amino-acid change may affect the structure or function of the androgen receptor protein.
+  
+e. What additional evidence would be needed before concluding that the variant causes disease?
+- Additional evidence such as clinical data and published research would be needed to determine whether the variant directly causes disease. 
