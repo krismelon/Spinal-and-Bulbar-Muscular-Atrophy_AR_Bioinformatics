@@ -99,3 +99,29 @@ d. Based on its location and ClinVar information, briefly explain how the varian
   
 e. What additional evidence would be needed before concluding that the variant causes disease?
 - Additional evidence such as clinical data and published research would be needed to determine whether the variant directly causes disease. 
+
+## Interpretation
+
+This activity gave me a better understanding of the AR gene through the use of the UCSC Genome Browser and NCBI ClinVar. UCSC helped me examine the gene's position, exon-intron structure, transcripts, and conversed regions, while ClinVar provided details about a reported variant and its clinical classification. When I located the c.2296G>A (p.Ala766Thr)variant in UCSC, I found that it occurs within the coding region of the AR gene. This helped me see how the location and type of a variant may provide clues about its effects on a protein.
+
+## Part G -  Short Reflection
+
+1. What did UCSC show you about your gene that was not obvious from simply reading about thegene's function?
+- The UCSC showed me the AR gene's actual location and structure in the genome, including it's exons, introns, and different transcipts. It also allowed me to see ClinVar variants and conserved regions that  are not obvious from simply reading about the gene's function.
+    
+2. Why is knowing the exact genomic location of a disease-associated variant useful?
+- Knowing the exact genomic location helps determine where the variant occurs within the gene, such as in an exon, intron, UTR, or another region. It also makes it easier to connect the variant with the correct gene and examine its possible effect.\
+  
+3. What is one limitation of predicting a variant's effect only from its genomic location?
+- The genomic location alone cannot tell us exactly how a variant affects the protein or causes disease. Additional evidence, such as clinical information and functional studies, is needed to confirm its biological effect.
+  
+4. What was the most interesting feature you observed about your assigned gene?
+- The most interesting feature I observed was that the AR gene has multiple transcripts and different exon–intron structures. I also found it interesting that the gene contains clinically reported variants and regions that are conserved across different species.
+
+## References
+
+UCSC Genome Browser Home. (n.d.-a). https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A67544021-67730619&hgsid=4175781241_TVVAHxgAieWr8hPQ9lAwQWItFDP1+genome.ucsc.edu
+
+U.S. National Library of Medicine. (n.d.). Clinvar - Home. National Center for Biotechnology Information. https://ncbi.nlm.nih.gov/clinvar/
+
+UCSC Genome Browser Home. (n.d.-b). https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A67717595-67717605&hgsid=4175903759_7lFTpo6u8seN09186HKlwSruA7Ot+genome.ucsc.edu
